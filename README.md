@@ -13,7 +13,7 @@ The routed chip in Innovus
 #
 <img width="992" height="831" alt="image" src="https://github.com/user-attachments/assets/6d430da2-9f0b-4efe-bfeb-b878b81b9dcf" />
 Clock Tree Debugger
-#
+
 <img width="1067" height="621" alt="image" src="https://github.com/user-attachments/assets/bf624590-36be-43d4-b423-c05ca330a9fb" />
 
 Timing
