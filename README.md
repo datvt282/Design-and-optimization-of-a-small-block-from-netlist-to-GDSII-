@@ -1,12 +1,15 @@
 # Design-and-optimization-of-a-small-block-from-netlist-to-GDSII-
 Process: 130nm IHP SG13G2; Area: 1925x1925µm2; Top module: croc_chip; Timing: 100 MHz clock; setup slack: +6 ps, hold slack: +2 ps across FF/TT/SS PVT corners (1.08–1.32  V, -40°C to 125°C); Cells: 47267 placed cells, 5272 FF, 5980 buffers, 6183 Inverter; Utilization: 69.29% 
 
-FloorPlan (1925x1925)
+FloorPlan(1925x1925) & Placement
 #
 <img width="991" height="827" alt="image" src="https://github.com/user-attachments/assets/02b1686f-2f21-4754-995a-a7463a76193e" />
 The routed chip in Innovus
 #
 <img width="992" height="831" alt="image" src="https://github.com/user-attachments/assets/6d430da2-9f0b-4efe-bfeb-b878b81b9dcf" />
+Clock Tree Debugger
+#
+<img width="1067" height="621" alt="image" src="https://github.com/user-attachments/assets/bf624590-36be-43d4-b423-c05ca330a9fb" />
 
 Timing
 
